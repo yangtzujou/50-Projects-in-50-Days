@@ -3,3 +3,4 @@
 |Project Title|Introduction|Demo|
 |---|---|---|
 |Expanding Cards|`HTML` `CSS` `JavaScript`|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/01-Expanding-Cards/)|
+|Progress Steps|`HTML` `CSS` `JavaScript`|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/02-Progress-Steps/)|
