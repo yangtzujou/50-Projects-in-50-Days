@@ -1,6 +1,9 @@
 # 50-Projects-in-50-Days
 
-|Project Title|Introduction|Demo|
+Mini projects made with HTML, CSS, and JavaScript.
+
+|No.|Project Title|Demo|
 |---|---|---|
-|Expanding Cards|`HTML` `CSS` `JavaScript`|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/01-Expanding-Cards/)|
-|Progress Steps|`HTML` `CSS` `JavaScript`|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/02-Progress-Steps/)|
+|01|Expanding Cards|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/01-Expanding-Cards/)|
+|02|Progress Steps|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/02-Progress-Steps/)|
+|03|Rotating Navigation|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/03-Rotating-Navigation/)|
