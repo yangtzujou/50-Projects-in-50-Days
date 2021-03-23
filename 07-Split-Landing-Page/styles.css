@@ -21,14 +21,14 @@ body {
 
 .left {
   left: 0;
-  background-image: url("./images/ps.jpg");
+  background-image: url("images/ps.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .right {
   right: 0;
-  background-image: url("./images/xbox.jpg");
+  background-image: url("images/xbox.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
