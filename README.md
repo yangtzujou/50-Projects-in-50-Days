@@ -10,3 +10,5 @@ Mini projects made with HTML, CSS, and JavaScript.
 |04|Hidden Search Widget|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/04-Hidden-Search-Widget/)|
 |05|Blurry Loading|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/05-Blurry-Loading/)|
 |06|Scroll Animation|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/06-Scroll-Animation/)|
+|07|Split Landing Page|[Demo](https://yangtzujou.github.io/50-Projects-in-50-Days/07-Split-Landing-Page/)|
+
