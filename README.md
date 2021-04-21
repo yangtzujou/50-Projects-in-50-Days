@@ -11,4 +11,5 @@ Mini projects made with HTML, CSS, and JavaScript.
 |05|Blurry Loading|[Demo](https://yangtzujou.github.io/Mini-Projects/05-Blurry-Loading/)|
 |06|Scroll Animation|[Demo](https://yangtzujou.github.io/Mini-Projects/06-Scroll-Animation/)|
 |07|Split Landing Page|[Demo](https://yangtzujou.github.io/Mini-Projects/07-Split-Landing-Page/)|
+|18|Background Slider|[Demo](https://yangtzujou.github.io/Mini-Projects/18-Background-Slider/)|
 |35|Image Carousel|[Demo](https://yangtzujou.github.io/Mini-Projects/35-Image-Carousel/)|
